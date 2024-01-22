@@ -1,7 +1,9 @@
 # Script to enable TRIM on SSD
 
 Step 1: Run `chmod +x trim.sh`
+
 Step 2: Run `sudo ./trim.sh`
+
 
 Based on the guide here https://www.jeffgeerling.com/blog/2020/enabling-trim-on-external-ssd-on-raspberry-pi
 
